@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1050&color=F05032&center=true&width=600&lines=print+(%22Hi%2C+my+name+is+Duan!\n%22)" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1050&color=F05032&center=true&width=600&lines=print(%22Hi%2C+my+name+is+Duan!\n%22)" />
   </a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=buiduan07)
