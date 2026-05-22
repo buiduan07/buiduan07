@@ -5,7 +5,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=buiduan07)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/buiduan07)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/du%E1%BA%A9n-b%C3%B9i-%C4%91%E1%BB%A9c-890183385/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/duanducbui/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/buiducduan2020)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/akulcirdom10/)
   <br/><br/>
